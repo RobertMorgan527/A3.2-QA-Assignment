@@ -1,0 +1,12 @@
+C:\Users\Robert.Morgan\source\repos\ActivityPostCourse\obj\Debug\net6.0\ActivityPostCourse.csproj.AssemblyReference.cache
+C:\Users\Robert.Morgan\source\repos\ActivityPostCourse\obj\Debug\net6.0\ActivityPostCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert.Morgan\source\repos\ActivityPostCourse\obj\Debug\net6.0\ActivityPostCourse.AssemblyInfoInputs.cache
+C:\Users\Robert.Morgan\source\repos\ActivityPostCourse\obj\Debug\net6.0\ActivityPostCourse.AssemblyInfo.cs
+C:\Users\Robert.Morgan\source\repos\ActivityPostCourse\obj\Debug\net6.0\ActivityPostCourse.csproj.CoreCompileInputs.cache
+C:\Users\Robert.Morgan\source\repos\ActivityPostCourse\bin\Debug\net6.0\ActivityPostCourse.deps.json
+C:\Users\Robert.Morgan\source\repos\ActivityPostCourse\bin\Debug\net6.0\ActivityPostCourse.dll
+C:\Users\Robert.Morgan\source\repos\ActivityPostCourse\bin\Debug\net6.0\ActivityPostCourse.pdb
+C:\Users\Robert.Morgan\source\repos\ActivityPostCourse\obj\Debug\net6.0\ActivityPostCourse.dll
+C:\Users\Robert.Morgan\source\repos\ActivityPostCourse\obj\Debug\net6.0\refint\ActivityPostCourse.dll
+C:\Users\Robert.Morgan\source\repos\ActivityPostCourse\obj\Debug\net6.0\ActivityPostCourse.pdb
+C:\Users\Robert.Morgan\source\repos\ActivityPostCourse\obj\Debug\net6.0\ref\ActivityPostCourse.dll
